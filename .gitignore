@@ -1,0 +1,2 @@
+# local settings with secrets; see internal/infrastructure/.env.example
+.env
